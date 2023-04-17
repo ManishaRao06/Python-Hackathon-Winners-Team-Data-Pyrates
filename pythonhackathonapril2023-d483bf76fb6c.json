@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pythonhackathonapril2023",
+  "private_key_id": "d483bf76fb6c434832c9e67a7aee30dd69632677",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDoRVY6UgLdRvDO\nut/SFZYjkaYdF0GDe803qPJYON8LFedULc4A6yVQg+qkUnNpkNep9cYMHXZ0S6C2\nkzJn20K5LvYT5r4++UFPgiAT5oarPq25I+bI6lOhD3CtXAw6z3C4jZosOwpcQclv\nhfgrutNu+7qt4UPnZhxzwsJKRqYmhs+82aBZyk1/Sltkcg84m6hvq/TzNvwu3+sY\njFZzzRH5A00gbqM7KlK05+I1Z3DH66frhsdS3mHDmZNM5r0/mQ4+fxm/EruIQO+z\nbE6nZRSTjAcCqqN8AP6Hpx5FxvrtDqMf5Zgy5UMHAV7HrsEhWiLn7P2Al/F15Aob\n8aKLvsGTAgMBAAECggEAHMF7eRbu1y78NdaO9TcfnQxgJhkwpDLvPOUus7C+ybmO\n0oN6je85ccFoiwAmMmXwkqXPPMVnr+LZD8wjdmt/1DtgfdBDB2WGf23Fw5D2ZTxf\nokcz6vXlH/swYQC/XDHoa6t5mzY9Wcn57VOxs4BFbZJpZzOMsO5EYX81h0qTMWZM\n6izcpo5hXF2vU1q9MfVtNpmYLZ81PLqTucq9fWG4KBhn9Prf5acf2qgODwrbS2Fm\n0JfA9VmRNllaJaX65bLB86/coAhli7oa6fivikTnCHVGC/18xhjgME1sSBTWLh6a\nB9f465x6xz2QFEI2a4gP90uI8H8S+FZ8D+yOgkBF2QKBgQD6sPzHncG0utBWGLkm\nt7+wbK281pbyUUcRGQUf+3TlV4QGVlcIqLb/pmx4VgcXo+grMm97wHTqi/7YG2Bt\nDyltgzoTFK3wCl2kP/1Gai/7QTOaF4ykDvZRl+5ioFyXbr4SaH9Y9fT5sNNmTDt+\nq2t8LGq+tzg3r7fT+y9324BuDQKBgQDtMH2hCwcNp0zmpbda+NH7hgs5uYJSP0l5\nYr5bM/RsI8cGAGiUceYitzvmASD7VHniUdX8oFSqeGeB1RsP8xbiSt4IC/Nusb0D\nR3v72eknqpNI9lJ8d8p1c88t68hcxjen3y+eEGViMpwrr43OAuvsEmLoMn5GJ9pa\ni/kAHummHwKBgQDW2HPrB5KJN0lxYALd4cBQjPNg0W/QAEQtrQmtXS3Tl2s4myo/\n64faFWEEyIWPhxNkYfcVUd1hXdVslBnRnZrdlgdhbumavOd/6q8/d6XjaP+2YdRQ\njdogF1tf/xsbVPdkg1YQgcoPa7HhDBg4+ORHKTHafN+bKecbrzwBNoccyQKBgHiz\n74qvuPQqykip1mg2LW3JZhcHH5nJWROru2FgTCdoAZU9SfsZB1ttUc8Xjfg4ohoZ\nOUNpOAzUXyBEGZSBSYj5PoprwoL3ck+j5iVhXHRyKqe7qnhq4Z3pxGoDDiCgQpxs\nSKgwgdd6F91nZkuLUxH8vVaas4XyK/1eM+Xq1U5TAoGATp2GmK9ruJna9cKhckWo\nC3Bj3r4L01jigt1luotK7TEBMO1k3th8EvaFJ/+YeNo4P/NWFtdPizJRGsodDi3x\nxtqPEFxkZV2mgYpjI6X8WCaS3Yy/lbfBMGhLFdqr9k/oWR0nj7Vskmtn6idOPqT4\nu/okCcdI2usIW9hM1/f50jM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "account1@pythonhackathonapril2023.iam.gserviceaccount.com",
+  "client_id": "106073870401763018426",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/account1%40pythonhackathonapril2023.iam.gserviceaccount.com"
+}
